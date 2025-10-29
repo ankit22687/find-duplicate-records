@@ -1,5 +1,3 @@
-# Senior Laravel API Developer Code Challenge
-
 ## Assumptions
 
 1. Based on Challenge split tables into "doctors" and "clinics". 
